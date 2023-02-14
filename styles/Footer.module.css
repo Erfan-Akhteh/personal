@@ -1,0 +1,17 @@
+.footer {
+  margin-top: 4rem;
+  border-top: 1px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textFooter {
+  color: aqua;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+@media screen and (max-width: 768px) {
+  .textFooter{
+    font-size: 1.3rem;
+  }
+}
