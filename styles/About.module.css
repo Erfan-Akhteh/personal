@@ -1,6 +1,7 @@
 .img {
   margin-top: 2rem;
   object-fit: cover;
+  margin-right:2rem;
   border-radius: 2rem;
   box-shadow: 0 0 4rem rgba(96, 233, 255, 27%);
 }
